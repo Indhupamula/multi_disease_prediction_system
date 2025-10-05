@@ -1,7 +1,5 @@
 # Multiple Disease Prediction System WebApp
-This repository contains a Multiple Disease Prediction System WebApp developed using Streamlit and hosted on Streamlit Cloud. The web app integrates four different disease prediction systems, each utilizing machine learning models to provide accurate predictions. The diseases covered are:
-
-
+ The diseases covered are:
 1. Diabetes Prediction System
 
 2. Heart Disease Prediction System
@@ -11,33 +9,11 @@ This repository contains a Multiple Disease Prediction System WebApp developed u
 4. Breast Cancer Prediction System
 
 
-Table of Contents:
 
-* Overview
-* Installation
-* Usage
-* Dataset Description
-* Technologies Used
-* Model Development Process
-* Models Used
-* Model Evaluation
-* Conclusion
-* Deployment
-* Contributing
 
 # Overview
 This web application allows users to select from four different disease prediction systems and get predictions based on the input features. Each prediction system was developed through extensive data analysis and model selection processes, ensuring high accuracy and reliability.
 
-# Installation
-To run this project locally, please follow these steps:
-1. Clone the repository
-2. Navigate to the project directory
-3. Install the required dependencies
-
-
-# Usage
-To start the Streamlit web app, run the following command in your terminal: streamlit run streamlit_app.py
-This will launch the web app in your default web browser. You can then select the desired disease prediction system from the sidebar and input the required features to get a prediction.
 
 # Dataset Description
 1. Diabetes Prediction System
@@ -146,12 +122,7 @@ Model	Accuracy
 This Multiple Disease Prediction System WebApp provides an easy-to-use interface for predicting the likelihood of various diseases based on input features. The models used are well-validated and tuned for high accuracy. The system aims to assist in early diagnosis and better decision-making in healthcare.
 
 # Deployment
-The web app is hosted on Streamlit Cloud. You can access it using the following link:
+The web app is hosted on Streamlit Cloud. 
 
-https://ml-project-20-multiple-disease-prediction-system-rzzsjoxpjyj32.streamlit.app/
 
-# Contributing
-Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
-# Contact
-If you have any questions or suggestions, feel free to contact me at prachetpandav283@gmail.com
