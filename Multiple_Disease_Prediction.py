@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 27 16:25:58 2024
 
-@author: prachet
-"""
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
@@ -565,6 +561,7 @@ def main():
     
 if __name__ == '__main__':
     main()
+
 
 
 
